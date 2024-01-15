@@ -8,10 +8,7 @@ I am a quick learner and excited to work in the technology field. I have the ski
 
 <ul>
   <li>
-    Web developmer
-  </li>
-  <li>
-    Web developmer
+    Web developer
   </li>
   <li>
     AI/Deep Learning
