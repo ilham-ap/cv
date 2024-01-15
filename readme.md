@@ -4,9 +4,24 @@ email: ilhamadipanuntun@g.ncu.edu.tw Hp: 0974114407
 
 I am a quick learner and excited to work in the technology field. I have the skills and experience in building a website and I am sure that I will be able to make a significant contribution to your company
 
-## Experience
--
--
+## Skills
+<ul>
+  <li>
+    Web developmer
+  </li>
+  <li>
+    AI/Deep Learning
+  </li>
+  <li>
+    Remote Sensing Research
+  </li>
+  <li>
+    Design and Editing
+  </li>
+</ul>
+</ul>
+- 
+- 
 -
 ## Education
 -
