@@ -43,8 +43,9 @@ I am a quick learner and excited to work in the technology field. I have the ski
   <br/>build and manage student database and homework database
   <br/>Indonesian Student Association of NCU
   <br/>2022/11-2023/06
-
-  <br/>  **Online marketing**
+  
+  <br/>**AI/Deep Learning**
+  <br/>Joint project <a href="https://sites.google.com/view/yingnongchen#h.iyogd13sifoc">Simultaneous face and voice processing (ITRI project), AI 虛擬主播-表情與口語同步(工研院計畫)</a>
     
   
 ## Publication and Research
