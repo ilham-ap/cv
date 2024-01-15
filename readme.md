@@ -35,19 +35,15 @@ I am a quick learner and excited to work in the technology field. I have the ski
   Universitas Negeri Yogyakarta, Indonesia <br/>
     
   </li>
+</ul>
+## Experience
+<ul>
+<li>
+  Web developer
+  <p>build and manage student database and homework database 2022/11-2023/06 </p>
+</li>
   
-  <li>
-    Remote Sensing Research
-  </li>
-  <li>
-    Design and Editing
-  </li>
 </ul>
-</ul>
-## Skills
--
--
--
 ## Publication and Research
 -
 -
