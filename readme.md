@@ -21,9 +21,23 @@ I am a quick learner and excited to work in the technology field. I have the ski
 </ul>
 </ul>
 ## Education
--
--
--
+<ul>
+  <li>
+    Bachelor of Science in physics </br>
+  Supervisors: <a href="https://scholar.google.com/citations?user=bHAb5YsAAAAJ&hl=en&oi=sra">Dr. Rida SN Mahmudah</a> </br>
+  Universitas Negeri Yogyakarta, Indonesia
+  </li>
+  <li>
+    AI/Deep Learning
+  </li>
+  <li>
+    Remote Sensing Research
+  </li>
+  <li>
+    Design and Editing
+  </li>
+</ul>
+</ul>
 ## Skills
 -
 -
