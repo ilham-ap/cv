@@ -1,4 +1,4 @@
-Ilham Adi Panuntun <br/>
+**Ilham Adi Panuntun** <br/>
 No. 300, Zhongda Rd, Zhongli District, Taoyuan City 320317, Taiwan <br/>
 email: ilhamadipanuntun@g.ncu.edu.tw &nbsp;&nbsp;Hp: 0974114407
 
@@ -39,10 +39,15 @@ I am a quick learner and excited to work in the technology field. I have the ski
 ## Experience
 <ul>
 <li>
-  Web developer
-  <p>build and manage student database and homework database 2022/11-2023/06 </p>
+  **Web developer**
+  <br/>build and manage student database and homework database
+  <br/>Indonesian Student Association of NCU
+  <br/>2022/11-2023/06
 </li>
-  
+  <li>
+    **Online marketing**
+    <br
+  </li>
 </ul>
 ## Publication and Research
 -
