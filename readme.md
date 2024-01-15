@@ -38,18 +38,15 @@ I am a quick learner and excited to work in the technology field. I have the ski
 </ul>
 
 ## Experience
-<ul>
-<li>
+
   **Web developer**
   <br/>build and manage student database and homework database
   <br/>Indonesian Student Association of NCU
   <br/>2022/11-2023/06
-</li>
-  <li>
-    **Online marketing**
-    <br
-  </li>
-</ul>
+
+  <br/>  **Online marketing**
+    
+  
 ## Publication and Research
 -
 -
