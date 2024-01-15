@@ -5,6 +5,16 @@ email: <a href="mail:to" style="text-decoration:none">ilhamadipanuntun@g.ncu.edu
 I am a quick learner and excited to work in the technology field. I have the skills and experience in building a website and I am sure that I will be able to make a significant contribution to your company
 
 ## Skills
+<table>
+  <tr>
+    <td>
+       <li>
+    Web developmer
+  </li>
+    </td>
+  </tr>
+  
+</table>
 <ul>
   <li>
     Web developmer
