@@ -23,13 +23,19 @@ I am a quick learner and excited to work in the technology field. I have the ski
 ## Education
 <ul>
   <li>
-    Bachelor of Science in physics </br>
-  Supervisors: <a href="https://scholar.google.com/citations?user=bHAb5YsAAAAJ&hl=en&oi=sra">Dr. Rida SN Mahmudah</a> </br>
-  Universitas Negeri Yogyakarta, Indonesia
+    Master of Science in Remote Sensing <br/>
+    2022 - on going <br/>
+    Supervisors: <a href="https://sites.google.com/view/yingnongchen">Professor. Ying-Nong Chen</a><br/>
+    National Central University
   </li>
   <li>
-    AI/Deep Learning
+    Bachelor of Science in physics<br/>
+    2017/09 - 2022/1 <br/>
+  Supervisors: <a href="https://scholar.google.com/citations?user=bHAb5YsAAAAJ&hl=en&oi=sra">Dr. Rida SN Mahmudah</a> <br/>
+  Universitas Negeri Yogyakarta, Indonesia <br/>
+    
   </li>
+  
   <li>
     Remote Sensing Research
   </li>
