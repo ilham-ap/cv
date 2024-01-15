@@ -19,7 +19,7 @@ I am a quick learner and excited to work in the technology field. I have the ski
     Design and Editing
   </li>
 </ul>
-</ul>
+
 ## Education
 <ul>
   <li>
